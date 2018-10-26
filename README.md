@@ -1,2 +1,2 @@
-# digital-clock
-Creating a digital clock
+# Digital Clock
+## Creating a digital clock
